@@ -1,0 +1,23 @@
+
+PowerRelayShield bill of materials
+
+Resistors (Qty:)	Component IDs		Value				Packaging	Digi-Key SKU		Unit Price (USD)	Subtotal	Notes
+
+3			R1, R2, R3		10 R				0805 SMD	311-10.0CRCT-ND		0.0200			0.0600
+4			R4, R5, R6, R11		1 k				0805 SMD	311-1.0KARCT-ND		0.0170			0.0680
+3			R7, R8, R9		100 k				0805 SMD	311-100KARCT-ND		0.0170			0.0510
+1			R10			2.2 k				0805 SMD	311-2.2KARCT-ND		0.0170			0.0170
+1			R12			3.3k				0805 SMD	311-3.3KARCT-ND		0.0170			0.0170
+																
+Semiconductors																
+3			D1-D3			1N4148				SOD-323		1N4148WSFSCT-ND		0.1500			0.4500
+3			LED1-LED3		Green LED 			0805 SMD	754-1131-1-ND		0.1600			0.4800
+3			Q1-Q3			2N7002 MOSFET			SOT-23		568-5818-1-ND		0.1400			0.4200
+																
+Miscellaneous																
+3			J1-J3			0.2" PCB screw terminal				ED2580-ND		0.4500			1.3500
+3			S1-S3			SMD tactile pushbutton				EG2531CT-ND		0.6700			2.0100
+3			RY1-RY3			20A 240VAC SPDT power relay			PB306-ND		3.6000			10.8000
+
+																	Total:	15.7230	(Excludes PCBs)
+
